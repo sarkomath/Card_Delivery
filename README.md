@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8f1o84utg0w0nvxl?svg=true)](https://ci.appveyor.com/project/sarkomath/silenium-selenide)
